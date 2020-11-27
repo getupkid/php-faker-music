@@ -1,5 +1,6 @@
 {
   "name": "rauwebieten/php-faker-music",
+  "description" : "A pop music provider for fakerphp/faker",
   "require": {
     "fakerphp/faker": "^1.9"
   },
